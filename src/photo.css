@@ -1,0 +1,13 @@
+.profile-photo {
+  overflow: hidden;
+}
+
+.profile-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 5px solid #0b1120;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 26%;
+}
